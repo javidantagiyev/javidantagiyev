@@ -27,8 +27,8 @@
   <a href="jtaghiyev16178@ada.edu.az" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" height="25" alt="pinterest logo"  />
+  <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
+    <img src="https://img.shields.io/badge/C9232C" height="25" alt="pinterest logo"  />
   </a>
 
 </div>
