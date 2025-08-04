@@ -14,21 +14,21 @@
 
 ###
 
-<div align="left">
+<div align="left" class = "socials">
   <a href="https://www.linkedin.com/in/javidantaghiyev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
   <a href="https://discord.com/users/deathstroke170" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
   </a>
   <a href="https://www.instagram.com/why.hyper/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
   </a>
   <a href="jtaghiyev16178@ada.edu.az" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"/>
   </a>
   <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=C8232C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"  />
+    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=C8232C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"/>
   </a>
 
 </div>
@@ -94,6 +94,42 @@
     height="170"
   />
 </div>
+
+###
+
+.socials class:
+
+html
+Copy
+Edit
+<style>
+.socials {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.socials a {
+  display: inline-block;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  text-decoration: none;
+}
+
+.socials a:hover {
+  transform: scale(1.1) translateY(-3px);
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
+}
+
+.socials img {
+  display: block;
+  height: 30px;
+  border-radius: 4px;
+  user-select: none;
+}
+</style>
 
 
 ###
