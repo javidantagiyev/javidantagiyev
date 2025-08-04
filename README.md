@@ -84,7 +84,7 @@
 </div>
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=deathstroke170&unique=true)
+![Spotify recently played](![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique={1}))
 
 ###
 
