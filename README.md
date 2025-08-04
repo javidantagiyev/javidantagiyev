@@ -1,35 +1,3 @@
-<head>
-  <style>
-    .socials {
-      display: flex;
-      gap: 12px;
-      align-items: center;
-      padding: 8px 0;
-    }
-    
-    .socials a {
-      display: inline-block;
-      transition: transform 0.3s ease, filter 0.3s ease;
-      border-radius: 6px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-      text-decoration: none;
-    }
-    
-    .socials a:hover {
-      transform: scale(1.1) translateY(-3px);
-      filter: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
-    }
-    
-    .socials img {
-      display: block;
-      height: 30px;
-      border-radius: 4px;
-      user-select: none;
-    }
-  </style>
-</head>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javidantagiyev/javidantagiyev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javidantagiyev/javidantagiyev/output/pacman-contribution-graph.svg">
@@ -123,12 +91,9 @@
   <img 
     src="https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique=1" 
     alt="Spotify Recently Played"
-    height="170"
+    height="400"
   />
 </div>
-
-###
-
 
 
 ###
