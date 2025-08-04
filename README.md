@@ -83,8 +83,12 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
 </div>
 
+  <a href="" target="_blank">
+    <img src="(https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique={1}"/>
+  </a>
 
-![Spotify recently played](![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique={1}))
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique={1})
 
 ###
 
