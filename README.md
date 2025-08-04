@@ -83,6 +83,9 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
 </div>
 
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
+
 ###
 
 <div align="center">
