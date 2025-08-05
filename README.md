@@ -7,37 +7,13 @@
 
 <h1 align="center">Hey, It is Javi</h1>
 
-<p align="left" style="font-size: 32;">
-  Hello World!
-  I do coding, sometimes I make games.  
+<p align="left">
+  Hello World! <br>
+  I do coding, sometimes I make games. <br>
   I am a backend developer, and I also have a strong interest in data science.  
-  Exploring data and building robust backend systems is what I enjoy the most.
+  Exploring data and building interesting backend systems is what I enjoy the most. <br> <br>
+  But coffee makes me sleep
 </p>
-
-<h2></h2>
-<div align="left" class = "socials">
-  <a href="https://www.linkedin.com/in/javidantaghiyev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-  <a href="https://discord.com/users/deathstroke170" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
-  </a>
-  <a href="https://www.instagram.com/why.hyper/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-  </a>
-  <a href="mailto:jtaghiyev16178@ada.edu.az" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"/>
-  </a>
-  <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=C8232C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"/>
-  </a>
-  <a href="https://open.spotify.com/user/31cwrlwwlzzgr7nwzfkfosuujv4q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo"/>
-  </a>
-  <a href="https://steamcommunity.com/id/cavidan_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=00adee&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo"/>
-  </a>
-</div>
 
 <h2></h2>
 
@@ -91,11 +67,38 @@
 </p>
 </div>
 
+<h2></h2>
+<div align="left" class = "socials">
+  <a href="https://www.linkedin.com/in/javidantaghiyev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  </a>
+  <a href="https://discord.com/users/deathstroke170" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+  </a>
+  <a href="https://www.instagram.com/why.hyper/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"/>
+  </a>
+  <a href="mailto:jtaghiyev16178@ada.edu.az" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"/>
+  </a>
+  <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=C8232C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pinterest logo"/>
+  </a>
+  <a href="https://open.spotify.com/user/31cwrlwwlzzgr7nwzfkfosuujv4q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="spotify logo"/>
+  </a>
+  <a href="https://steamcommunity.com/id/cavidan_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=00adee&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="steam logo"/>
+  </a>
+</div>
+
+<h1></h1>
+
 <div align = "center">
   <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&unique=1" 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31cwrlwwlzzgr7nwzfkfosuujv4q&count=2" 
       alt="Spotify Recently Played"
       height="400"/>
   
-  <img src="https://streak-stats.demolab.com?user=javidantagiyev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=javidantagiyev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3" height="158" alt="streak graph"/>
 </div>
