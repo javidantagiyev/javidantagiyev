@@ -30,6 +30,12 @@
   <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=C8232C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"/>
   </a>
+  <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"/>
+  </a>
+  <a href="https://www.pinterest.com/cavidantagiyev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=00adee&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"/>
+  </a>
 
 </div>
 
