@@ -4,10 +4,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/javidantagiyev/javidantagiyev/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<img src="text.html">
 
 <h1 align="center">Hey, It is Javi</h1>
-
 
 <p align="left" style="font-size: 32;">
   Hello World!
@@ -15,7 +14,6 @@
   I am a backend developer, and I also have a strong interest in data science.  
   Exploring data and building robust backend systems is what I enjoy the most.
 </p>
-
 
 <h2></h2>
 <div align="left" class = "socials">
