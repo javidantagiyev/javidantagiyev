@@ -4,7 +4,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/javidantagiyev/javidantagiyev/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="text.html">
 
 <h1 align="center">Hey, It is Javi</h1>
 
