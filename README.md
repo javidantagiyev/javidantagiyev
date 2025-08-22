@@ -9,9 +9,10 @@
 
 <p align="left">
   Hello World! <br>
-  I do coding, sometimes I make games. <br>
-  I am a backend developer, and I also have a strong interest in data science.  
-  Exploring data and building interesting backend systems is what I enjoy the most. <br> <br>
+  I do coding, and sometimes create games.<br> <br>
+  I’m an AI engineer with a strong interest in Data Science. <br>
+  I also enjoy game development and creating interactive experiences. <br>
+  When I'm not coding, I’m working on intellectual games, experimenting with new game mechanics, or reading about AI advancements <br><br>
   But coffee makes me sleep
 </p>
 
